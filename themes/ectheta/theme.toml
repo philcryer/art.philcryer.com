@@ -1,12 +1,12 @@
-name = "Osprey"
+name = "Ectheta"
 license = "GNU3.0"
-licenselink = "https://github.com/tomanistor/osprey/blob/master/LICENSE.md"
-description = "Clean, responsive one-page portfolio accompanied by a minimalist blog."
-homepage = "https://github.com/tomanistor/osprey"
-tags = ["blog", "portfolio", "gallery", "minimalist", "responsive", "flexbox"]
-features = ["blog", "portfolio", "google analytics"]
+licenselink = "https://github.com/philcryer/ectheta/blob/master/LICENSE"
+description = "Clean, MINIMAL, responsive portfolio or gallery Hugo theme."
+homepage = "https://github.com/philcryer/ectheta"
+tags = ["portfolio", "gallery", "minimalist", "responsive", "flexbox"]
+features = ["minimal", "portfolio", "google analytics"]
 min_version = 0.24.1
 
 [author]
-    name = "Toma Nistor"
-    homepage = "https://tomanistor.com"
+    name = "Phil Cryer"
+    homepage = "https://philcryer.com"
