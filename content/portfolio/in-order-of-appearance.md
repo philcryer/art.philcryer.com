@@ -8,10 +8,10 @@ showonlyimage: false
 ---
 <p align="center"><img src="/img/portfolio/In_Order_of_Appearance.jpg">
 
-<h3>In order of appearance</h3>
+### In order of appearance
 
 * media: "Mixed media on wood panel"
 * dimensions: "24 x 24"
 * year: "2015"
 
-<p>In a year of uncertainty, nothing seemed to make sense. Things that were expected to happen didn't, and that's all we can say about that for now.
+Without a straight path forward, how do we know when we make progress?

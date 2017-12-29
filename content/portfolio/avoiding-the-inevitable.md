@@ -14,4 +14,4 @@ showonlyimage: false
 * dimensions: "24 x 24"
 * year: "2017"
 
-<p>In a year of uncertainty, nothing seemed to make sense. Things that were expected to happen didn't, and that's all we can say about that for now.
+In a year of uncertainty, nothing seemed to make sense. Things that were expected to happen didn't, and that's all we can say about that for now.
