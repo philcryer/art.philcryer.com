@@ -1,46 +1,41 @@
-baseURL = "https://art.philcryer.com/"
-title = "art x philcryer"
-
-tags = ["gallery", "portfolio", "art"]
-languageCode = "en-US"
-config = "config.toml"
-theme = "ectheta"
-#theme = "creative"
-canonifyURLS = true
+baseurl = "https://art.philcryer.com/"
+title = "Phil Cryer"
+theme = "creative"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-disqusShortname = "tomanistor"
-disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
-[Params]
-    tagline = ""
-    author = "Toma Nistor"
-    description = "This is only a guess."
-    logoBig = "splash.png"
-    logoSmall = "/images/osprey-logo.png"
-    favicon = "favicon.ico"
-    opengraphImage = "/images/osprey.png"
-    twitter = "TomaNistor"
-    linkedin = "tomanistor"
-    github = "tomanistor"
-    email = ""
-    googleTagManager = ""
-    highlightJS = true
-    copyright = true
-    credit = true
-    customCSS = true
-    cacheBustCSS = false
-    cacheBustJS = false
-    ajaxFormspree = true
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "This is only a guess"
+  copyright = "Site code &copy; 2018 (MIT Licensed)"
+  sidebarAbout = [
+    "Infrequent artist"
+  ]
+  email = "phil@philcryer.com"
 
-#[[menu.main]]
-#    name = "Work"
-#    url  = "/#work"
-#    weight = 1
-#[[menu.main]]
-#    name = "About"
-#    url  = "/about"
-#    weight = 3
-#[[menu.main]]
-#    name = "Contact"
-#    url  = "/contact"
-#    weight = 4
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Contact"
+  url = "contact/"
+
+#  [params.social]
+#  facebook      = "full page or profile url in facebook"
+#  googleplus    = "full profile url in googleplus"
+#  email         = "email@example.com"
+#  twitter       = "full profile url in twitter"
+#  linkedin      = "full profile url in linkedin"
+#  stackoverflow = "full profile url in stackoverflow"
+#  instagram     = "full profile url in instagram"
+#  github        = "full profile url in github"

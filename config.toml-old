@@ -1,0 +1,47 @@
+#baseURL = "https://art.philcryer.com/"
+baseURL = "localhost:1313"
+title = "art x philcryer"
+
+tags = ["gallery", "portfolio", "art"]
+languageCode = "en-US"
+config = "config.toml"
+#theme = "ectheta"
+theme = "creative"
+canonifyURLS = true
+googleAnalytics = ""
+#disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "Infrequent artists"
+    author = "Phil Cryer"
+    description = "This is only a guess."
+    logoBig = "splash.png"
+    logoSmall = "/images/osprey-logo.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/osprey.png"
+    #twitter = ""
+    #linkedin = ""
+    #github = ""
+    email = ""
+    #googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = true
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+#[[menu.main]]
+#    name = "Work"
+#    url  = "/#work"
+#    weight = 1
+#[[menu.main]]
+#    name = "About"
+#    url  = "/about"
+#    weight = 3
+#[[menu.main]]
+#    name = "Contact"
+#    url  = "/contact"
+#    weight = 4

@@ -8,8 +8,6 @@ Osprey is a simple, clean, and fast one-page [Hugo](https://gohugo.io/) portfoli
 ## Features
 * Minimalist, clean, and uncluttered theme
 * Portfolio display gallery
-* [Disqus](https://disqus.com) comments
-* [Formspree](https://formspree.io) AJAX contact form
 * Responsive Flexbox Grid
 * [SASS](http://sass-lang.com/) styling
 * Minimized/compressed CSS and JavaScript files with cachebusting hash setup
@@ -58,7 +56,6 @@ config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
-disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
