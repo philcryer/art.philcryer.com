@@ -10,8 +10,8 @@ showonlyimage: false
 
 ### Those people have their own problems
 
-* media: "Mixed media on wood panel"
-* dimensions: "24 x 18"
-* year: "2014"
+* Mixed media on wood panel
+* 24" wide x 18" high
+* 2014
 
 No comment.

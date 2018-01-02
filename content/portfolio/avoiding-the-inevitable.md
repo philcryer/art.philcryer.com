@@ -10,8 +10,8 @@ showonlyimage: false
 
 <h3>Avoiding the inevitable</h3>
 
-* media: "Mixed media on wood panel"
-* dimensions: "24 x 24"
-* year: "2017"
+* Mixed media on wood panel
+* 24" wide x 24" high
+* 2017
 
 In a year of uncertainty, nothing seemed to make sense. Things that were expected to happen didn't, and that's all we can say about that for now.
