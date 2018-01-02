@@ -10,8 +10,8 @@ showonlyimage: false
 
 ### In order of appearance
 
-* media: Mixed media on wood panel
-* dimensions: 14.5 x 15.5
-* year: 2015
+* Mixed media on wood panel
+* 14.5" high x 15.5" wide
+* 2015
 
 Without a straight path forward, how do we know when we make progress?
