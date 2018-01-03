@@ -14,4 +14,4 @@ showonlyimage: false
 * 24" wide x 24" high
 * 2016
 
-A study... the six one that day actually.
+A study... the sixth one that day actually.

@@ -14,4 +14,4 @@ showonlyimage: false
 * 22" wide x 22" high
 * 1991
 
-It's that fIREHOSE song from the 90s.
+Second in a series of three that a friend owned for the last 20 years, recently returned to me.
