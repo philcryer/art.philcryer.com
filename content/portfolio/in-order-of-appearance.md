@@ -12,6 +12,6 @@ showonlyimage: false
 
 * Mixed media on wood panel
 * 14.5" wide x 15.5" high
-* 2015
+* 2008
 
 Without a straight path forward, how do we know when we make progress?
