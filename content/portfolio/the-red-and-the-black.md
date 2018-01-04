@@ -14,4 +14,4 @@ showonlyimage: false
 * 22" wide x 22" high
 * 1993
 
-It's that fIREHOSE song from the 90s.
+It's that <a href="https://www.youtube.com/watch?v=uyeuWu9maVY">fIREHOSE song</a> from the 90s.
