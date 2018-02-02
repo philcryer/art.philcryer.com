@@ -5,4 +5,11 @@ title = "Contact"
 
 ## Contact
 
-To contact me you can shoot me an <a href="mailto:phil@philcryer.com">email</a>, or ping me on Twitter where I'm <a href="https://twitter.com/fak3r/">fak3r</a>. Thanks
+To contact Phil, you can reach him via:
+
+* <a href="mailto:phil@philcryer.com">email</a>
+* <a href="https://twitter.com/fak3r/">twitter</a>
+* <a href="https://keybase.io/fak3r/key.asc">pgp public key</a> (fingerprint: 04A1 69CC A79F 7188)
+* <a href="https://blockchain.info/address/1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu">bitcoin wallet</a>
+
+Thanks
