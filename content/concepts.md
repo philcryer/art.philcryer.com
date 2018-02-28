@@ -9,7 +9,12 @@ I think about art a lot, and have many concepts I dream up that I'd like to expl
 
 ### Guns
 
-Too much to say right now, ask again later.
+I've been sick of gun violence in my country for as long as I cam remember. The fact that our government hasn't been able to enact *any* common sense gun control legislation demonstrates that the system is broken. Citizens demand action to curb gun violence and death, but our politicians are seemingly bought and sold, so they don't (or can't) care. Ideas to address this in my art.
+
+* consumer - purchase a gun legally, take it apart, destroying critical pieces of it so that it cannot be rebuilt and used again; spread the pieces across new sculptures/paintings. Can these pieces be legally sold even though they are partially made of weapons? Does it matter that they cannot be reused, or is it just part of the gun loophole since I'm not an arms dealer?
+* terrorist - it's easy these days for people to go overboard in vilifying groups they disagree with, but to call the NRA a terrorist group doesn't seem that far fetched. Argue about if they truly don't care about gun deaths if you must, but the facts are clear; they are the reason our country can't get out of the rut of senseless gun violence and death. The money donated to the NRA is used to buy politicians so they won't act on making our country any safer, regardless of what the people ask for.
+* leakage - somehow acquire blood from someone murdered by a gun, utilize the blood as paint to illustrate how something that used to sustain life is now just medium for an idea, to make viewers ponder on why this keep happening, why does life have less value than "freedoms" in this country? How could one legally acquire blood from a gun murder? What usually happens to such blood if it's not needed as evidence? Are there any restrictions on reuse and resale of this blood as a piece of art... or again, does any one care?
+* names - using online resources (eg- gunviolencearchive.org), list all the names of people killed by guns in one year... or even in one month, or one city, or by age. Just spell them out, one after another, wrapping across the canvas over and over again... what do these names mean, what do they make you feel? Why were they not important, why were they overlooked, expendable - again why is it OK for these people to have died for so that others have the "freedom" to own guns in this country?
 
 ### Take only as directed
 
