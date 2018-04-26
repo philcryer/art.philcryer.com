@@ -1,41 +1,33 @@
-baseurl = "https://art.philcryer.com/"
-title = "Phil Cryer"
-theme = "creative"
-languageCode = "en-us"
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+baseurl                 = "https://art.philcryer.com/"               # Your domain name. Must end with "/"
+languageCode            = "en-us"
+title                   = "Phil Cryer - infrequent artist"
+theme                   = "sam"
+# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
 
 [params]
-  # Style options: default (pink), blue, green, pink, red, sea, violet
-  # Use custom.css for your custom styling
-  style = "default"
-  description = "This is only a guess"
-  copyright = "Site code &copy; 2018 (MIT Licensed)"
-  sidebarAbout = [
-    "Infrequent artist"
-  ]
-  email = "phil@philcryer.com"
+    dateform            = "Mon Jan 02, 2006"
+    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
+    favicon             = "/sam.ico"
+    pygmentsStyle       = "monokai"                     # https://help.farbox.com/pygments.html
+    pygmentsCodefences  = true
+    homepage            = "main"                        # What to call the home page link
+    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
+    clickablePhotos     = true                          # Allow links to the full size images
+    footerText          = "Built in 2018 in Saint Louis."
 
-  [[params.navlinks]]
-  name = "Home"
-  url = ""
+# Metadata
+    description         = "Phil Cryer is an infrequent artist living in Saint Louis, Missouri."            # Max 160 characters show in search results
+    twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
+    primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
+[[params.mainMenu]]
+    link = "/gallery"
+    text = "gallery"
 
-  [[params.navlinks]]
-  name = "Contact"
-  url = "contact/"
-
-#  [params.social]
-#  facebook      = "full page or profile url in facebook"
-#  googleplus    = "full profile url in googleplus"
-#  email         = "email@example.com"
-#  twitter       = "full profile url in twitter"
-#  linkedin      = "full profile url in linkedin"
-#  stackoverflow = "full profile url in stackoverflow"
-#  instagram     = "full profile url in instagram"
-#  github        = "full profile url in github"
+[[params.mainMenu]]
+    link = "/about"
+    text = "about"
+    
+[[params.mainMenu]]
+    link = "/contact"
+    text = "contact"

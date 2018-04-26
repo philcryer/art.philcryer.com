@@ -1,8 +1,18 @@
-+++
-date = "2017-11-05T21:05:33+05:30"
-title = "About"
-+++
+---
+title: "about"
+date: 2018-02-13T13:42:49-05:00
+---
 
-## About
+Phil Cryer is an information technology consultant, and infrequent artist, living in Saint Louis, Missouri. 
 
-Phil Cryer is an information technology consultant, and infrequent artist, living in Saint Louis, Missouri. His work explores texture, contrast, and shape by utilizing paint and mixed media on wooden panels. He takes inspiration from American abstract expressionist painters of the 19th century, and assumes he left his keys somewhere around here. He appreciates your interest and is happiest when music is playing.
+His art work explores texture, contrast, and shape by utilizing paint and mixed media on wooden panels. 
+
+He takes inspiration from American abstract expressionist painters of the 19th century, and is happiest when music is playing.
+
+More details about him can be found on [philcryer.com](http://philcryer.com).
+
+Source code for this site is freely available at [github.com/philcryer](https://github.com/philcryer).
+
+Site built with the open-source static site generator [Hugo](https://gohugo.io), the plugin [hugo-easy-gallery](https://github.com/liwenyip/hugo-easy-gallery), and the theme [Sam](https://github.com/hivickylai/hugo-theme-sam).
+
+Thanks.
