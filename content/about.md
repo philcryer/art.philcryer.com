@@ -7,12 +7,12 @@ Phil Cryer is an information technology consultant, and infrequent artist, livin
 
 His art work explores texture, contrast, and shape by utilizing paint and mixed media on wooden panels. 
 
-He takes inspiration from American abstract expressionist painters of the 19th century, and is happiest when music is playing.
+He takes inspiration from American abstract expressionist painters and sculptors of the 20th century, and is happiest when music is playing.
 
 More details about him can be found on [philcryer.com](http://philcryer.com).
 
-Source code for this site is freely available at [github.com/philcryer](https://github.com/philcryer).
-
 Site built with the open-source static site generator [Hugo](https://gohugo.io), the plugin [hugo-easy-gallery](https://github.com/liwenyip/hugo-easy-gallery), and the theme [Sam](https://github.com/hivickylai/hugo-theme-sam).
+
+The source code for this site is freely available at [github.com/philcryer](https://github.com/philcryer).
 
 Thanks.
