@@ -13,7 +13,7 @@ theme                   = "sam"
     homepage            = "main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "Built in 2018 in Saint Louis."
+    footerText          = ""
 
 # Metadata
     description         = "Phil Cryer is an infrequent artist living in Saint Louis, Missouri."            # Max 160 characters show in search results

@@ -13,6 +13,6 @@ More details about him can be found on [philcryer.com](http://philcryer.com).
 
 Site built with the open-source static site generator [Hugo](https://gohugo.io), the plugin [hugo-easy-gallery](https://github.com/liwenyip/hugo-easy-gallery), and the theme [Sam](https://github.com/hivickylai/hugo-theme-sam).
 
-The source code for this site is freely available on github at [art.philcryer](https://github.com/philcryer/art.philcryer.com).
+The source code for this site is freely available on github at [art.philcryer.com](https://github.com/philcryer/art.philcryer.com).
 
 Thanks.
