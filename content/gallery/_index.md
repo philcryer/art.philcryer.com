@@ -1,7 +1,8 @@
 ---
-title: "gallery"
+title: "Gallery"
+type: "gallery"
+url: "/gallery"
+maxWidth: "800x"
+clickablePhotos: true
+keepAspectRatio: false
 ---
-
-<h1>gallery</h1>
-
-All art work produced from 2010 to 2017, and all are offered for sale, except where specified.

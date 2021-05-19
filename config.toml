@@ -1,33 +1,48 @@
-baseurl                 = "https://art.philcryer.com/"               # Your domain name. Must end with "/"
-languageCode            = "en-us"
-title                   = "Phil Cryer - infrequent artist"
-theme                   = "sam"
-# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
+baseurl                  = "https://art.philcryer.com"           
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Phil Cryer - Art"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               
 
 [params]
-    dateform            = "Mon Jan 02, 2006"
-    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "/sam.ico"
-    pygmentsStyle       = "monokai"                     # https://help.farbox.com/pygments.html
-    pygmentsCodefences  = true
-    homepage            = "main"                        # What to call the home page link
-    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
-    clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = ""
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "main"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = "Phil Cryer - Art"
 
-# Metadata
-    description         = "Phil Cryer is an infrequent artist living in Saint Louis, Missouri."            # Max 160 characters show in search results
-    twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
-    primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
+# Metadata for Open Graph and Twitter
+    description          = "A new Hugo site."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Phil Cryer - Art"
+    # rss                = ""
+
+[[params.videoBackground.sources]]
+    source  = "/sample_video.mp4"
+    type    = "video/mp4"
+    poster  = "/background.png"
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
 
 [[params.mainMenu]]
-    link = "/gallery"
+    link = "posts"
+    text = "posts"
+
+[[params.mainMenu]]
+    link = "gallery"
     text = "gallery"
 
 [[params.mainMenu]]
-    link = "/about"
-    text = "about"
-    
+    link = "portfolio"
+    text = "portfolio"
+
 [[params.mainMenu]]
-    link = "/contact"
-    text = "contact"
+    link = "about"
+    text = "who is sam?"
+
+[imaging]
+    quality = 75
