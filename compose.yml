@@ -1,0 +1,30 @@
+---
+networks:
+  traefik:
+    driver: bridge
+    external: true
+    attachable: true
+
+services:
+  static-web-server:
+    #image: joseluisq/static-web-server:2
+    image: ghcr.io/static-web-server/static-web-server:2-alpine
+    environment:
+    # joseluisq/static-web-server config
+      - SERVER_PORT=8080
+      - SERVER_ROOT=/public
+      - SERVER_LOG_LEVEL=info
+    container_name: ${SITE_NAME}
+    restart: unless-stopped
+    volumes:
+      - ./html:/public
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=proxy"
+      - "traefik.http.routers.${SITE_NAME}.tls=true"
+      - "traefik.http.routers.${SITE_NAME}.entrypoints=https"
+      - "traefik.http.routers.${SITE_NAME}.rule=Host(`${SITE_FQDN}`)"
+      - "traefik.http.routers.${SITE_NAME}.tls.certresolver=myresolver"
+      - "traefik.http.services.${SITE_NAME}.loadbalancer.server.port=${SITE_PORT}"
+    networks:
+      - traefik
