@@ -2,7 +2,7 @@
 
 ## Bio
 
-Phil Cryer is an information technology consultant, and infrequent artist, living in Saint Louis, Missouri. His art work explores texture, contrast, and shape by utilizing paint and mixed media on wooden panels. He takes inspiration from American abstract expressionist painters and sculptors of the 20th century, and is happiest when music is playing. More details about him can be found on [philcryer.com](philcryer.com).
+Phil Cryer is an information technology consultant, and infrequent artist, living in Saint Louis, Missouri. His art work explores texture, contrast, and shape by utilizing paint and mixed media on wooden panels. He takes inspiration from American abstract expressionist painters and sculptors of the 20th century, and is happiest when music is playing. More details about him can be found on [philcryer.com](https://philcryer.com).
 
 ## License 
 
